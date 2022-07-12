@@ -6,8 +6,9 @@
 - [Click to See DEMO](https://coinlistproject.netlify.app/)
 
 **What did I learn ? || What did I repeat? || What tools did i use ?**
-React Hooks (useState)
-Array Methods (Map)
+
+- React Hooks (useState)
+- Array Methods (Map)
 
 ## 002 - tours
 
@@ -15,8 +16,9 @@ Array Methods (Map)
 - [Click to See DEMO](https://62c9a5ad858ea77f514dc1e1--jocular-syrniki-ece19e.netlify.app/)
 
 **What did I learn ? || What did I repeat? || What tools did i use ?**
-React Hooks (useState, useEffect)
-Array Methods (Filter)
+
+- React Hooks (useState, useEffect)
+- Array Methods (Filter)
 
 ## 003 - reviews
 
@@ -24,10 +26,10 @@ Array Methods (Filter)
 - [Click to See DEMO](https://62ca675250e7d17a459ecb91--vocal-yeot-af73c4.netlify.app/)
 
 **What did I learn ? || What did I repeat? || What tools did i use ?**
-React Hooks (useState)
-Array Methods (-)
-Math Methods (Trunc, Random)
-React-icons library
+
+- React Hooks (useState)
+- Math Methods (Trunc, Random)
+- React-icons library
 
 ## 004 - cat-ipsum
 
@@ -35,5 +37,6 @@ React-icons library
 - [Click to See DEMO](https://62ca89152db9041428a8491b--benevolent-smakager-bb14ed.netlify.app/)
 
 **What did I learn ? || What did I repeat? || What tools did i use ?**
-React Hooks (useState)
-React Form
+
+- React Hooks
+- (useState) React Form
