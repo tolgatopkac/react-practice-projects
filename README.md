@@ -51,3 +51,27 @@
 - React Hooks( useState)
 - React Icons
 - Array Methods (Map)
+
+## 006 - Menu
+
+- [Visit Repo](-)
+- [Click to See DEMO](-)
+
+**What did I learn ? || What did I repeat? || What tools did i use ?**
+
+- React Hooks( useState)
+- Array Methods (Map,filter)
+- JavaScript (Set)
+
+## 007 - Weather App
+
+- [Visit Repo](-)
+- [Click to See DEMO](-)
+
+**What did I learn ? || What did I repeat? || What tools did i use ?**
+
+- React Hooks(useState)
+- Array Methods (Split, Concat, Slice )
+- Math Methods (Trunc)
+- JavaScript(Promise, Fetch)
+- CSS ( Grid - Flex)
