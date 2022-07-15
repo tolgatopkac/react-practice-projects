@@ -54,8 +54,8 @@
 
 ## 006 - Menu
 
-- [Visit Repo](-)
-- [Click to See DEMO](-)
+- [Visit Repo](https://github.com/tolgatopkac/react-practice-projects/tree/main/react-practice-projects/006-menu)
+- [Click to See DEMO](https://62d114816e76405d2b46c069--aquamarine-halva-777eee.netlify.app/)
 
 **What did I learn ? || What did I repeat? || What tools did i use ?**
 
@@ -65,8 +65,7 @@
 
 ## 007 - Weather App
 
-- [Visit Repo](-)
-- [Click to See DEMO](-)
+- [Visit Repo](https://github.com/tolgatopkac/react-practice-projects/tree/main/react-practice-projects/007-weather-app)
 
 **What did I learn ? || What did I repeat? || What tools did i use ?**
 
@@ -75,3 +74,4 @@
 - Math Methods (Trunc)
 - JavaScript(Promise, Fetch)
 - CSS ( Grid - Flex)
+- Modules(react-accessible-accordion / react-select-async-paginate)
